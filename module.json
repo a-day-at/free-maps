@@ -54,7 +54,7 @@
   "esmodules": [
     "adayatfreemaps.js"
   ],
-  "description": "Map Set fof the [#Free] a day at maps made into a foundry module.",
+  "description": "Map Set of the [#Free] a day at maps made into a foundry module.",
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
