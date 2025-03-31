@@ -1,0 +1,62 @@
+{
+  "id": "a-day-at-free-maps",
+  "title": "a day at [#Free] - Map Set",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "a day at",
+      "email": "contact@adayat-maps.com",
+      "url": "https://adayat-maps.com/",
+      "discord": "jonagona",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "a-day-at-free-maps",
+      "label": "a-day-at-free-maps",
+      "banner": "modules/a-day-at-free-maps/assets/free_banner.webp",
+      "path": "packs/a-day-at-free-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "a-day-at-free-maps-journal",
+      "label": "a-day-at-free-maps-journal",
+      "banner": "modules/a-day-at-free-maps/assets/free_banner.webp",
+      "path": "packs/a-day-at-free-maps-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "a day at",
+      "sorting": "a",
+      "color": "#e4742d",
+      "packs": [
+        "a-day-at-free-maps"
+      ],
+      "folders": []
+    }
+  ],
+  "esmodules": [
+    "adayatfreemaps.js"
+  ],
+  "description": "Map Set fof the [#Free] a day at maps made into a foundry module.",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE"
+}
