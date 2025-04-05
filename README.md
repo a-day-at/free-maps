@@ -7,7 +7,7 @@
 <!--- replace <a-day-at-free-maps> with the `name` in your manifest -->
 <!--- ![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2F&a-day-at-free-maps&colorB=4aa94a) -->
 
-![Free Maps Banner](https://github.com/a-day-at/free-maps/blob/master/images/free_banner.webp?raw=true)
+<img src="https://github.com/a-day-at/free-maps/blob/master/images/free_banner.webp">
 # Welcome to *a day at [#Free] - Map Set* <img src="https://github.com/a-day-at/free-maps/blob/master/images/a-day-at-Logo.webp" width="120">
 
 Feel free to explore and enjoy—everything you find here is **freely available for personal use**!
