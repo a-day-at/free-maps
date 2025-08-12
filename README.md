@@ -1,7 +1,8 @@
 ![](https://img.shields.io/badge/Foundry-v12-informational)
+![](https://img.shields.io/badge/Foundry-v13-informational)
 <!--- Downloads @ Latest Badge -->
 <!--- replace shadows-eye/a-day-at-free-maps with your username/repository -->
-<!--- ![Latest Release Download Count](https://img.shields.io/github/downloads/shadows-eye/a-day-at-free-maps/latest/module.zip) -->
+![Latest Release Download Count](https://img.shields.io/github/downloads/a-day-at/free-maps/latest/module.zip)
 
 <!--- Forge Bazaar Install % Badge -->
 <!--- replace <a-day-at-free-maps> with the `name` in your manifest -->
@@ -15,7 +16,6 @@ Feel free to explore and enjoy—everything you find here is **freely available 
 ❤️ **This content is made accessible thanks to the generosity of my incredible patrons.**
 
 If you love what you see and want to see even more creations in the future, consider becoming one of them. Your support allows me to keep crafting, expanding, and delivering high-quality content for everyone.
-
 
 ---
 
