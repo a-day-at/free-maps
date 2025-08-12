@@ -1,6 +1,3 @@
-2025/03/29-21:44:42.515 3a84 Log #70: 0 ops saved to Table #73 OK
-2025/03/29-21:44:42.516 3a84 Archiving C:\Users\Shadow\AppData\Local\FoundryVTT\Data\modules\a-day-at-free-maps\packs\a-day-at-free-maps/000070.log: OK
-2025/03/29-21:44:42.548 3a84 Table #71: 14657 entries OK
-2025/03/29-21:44:42.588 3a84 Table #72: 24351 entries OK
-2025/03/29-21:44:42.613 3a84 Archiving C:\Users\Shadow\AppData\Local\FoundryVTT\Data\modules\a-day-at-free-maps\packs\a-day-at-free-maps/MANIFEST-000068: OK
-2025/03/29-21:44:42.622 3a84 **** Repaired leveldb C:\Users\Shadow\AppData\Local\FoundryVTT\Data\modules\a-day-at-free-maps\packs\a-day-at-free-maps; recovered 2 files; 3782671 bytes. Some data may have been lost. ****
+2025/08/11-23:25:07.847 61e0 Recovering log #201
+2025/08/11-23:25:07.877 61e0 Delete type=0 #201
+2025/08/11-23:25:07.877 61e0 Delete type=3 #199
