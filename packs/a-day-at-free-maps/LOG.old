@@ -1,3 +1,34 @@
-2025/08/11-23:25:07.847 61e0 Recovering log #201
-2025/08/11-23:25:07.877 61e0 Delete type=0 #201
-2025/08/11-23:25:07.877 61e0 Delete type=3 #199
+2025/08/14-17:25:09.473 223c Recovering log #230
+2025/08/14-17:25:09.474 223c Level-0 table #233: started
+2025/08/14-17:25:09.488 223c Level-0 table #233: 456383 bytes OK
+2025/08/14-17:25:09.519 223c Delete type=0 #22
+2025/08/14-17:25:09.519 223c Delete type=2 #23
+2025/08/14-17:25:09.519 223c Delete type=2 #87
+2025/08/14-17:25:09.519 223c Delete type=2 #88
+2025/08/14-17:25:09.532 223c Delete type=0 #206
+2025/08/14-17:25:09.533 223c Delete type=0 #230
+2025/08/14-17:25:09.533 223c Delete type=3 #21
+2025/08/14-17:25:09.533 223c Delete type=3 #205
+2025/08/14-17:25:09.533 223c Delete type=3 #220
+2025/08/14-17:25:11.540 549c Compacting 3@0 + 1@1 files
+2025/08/14-17:25:11.665 549c Generated table #235@0: 14793 keys, 2149674 bytes
+2025/08/14-17:25:11.789 549c Generated table #236@0: 23672 keys, 1593480 bytes
+2025/08/14-17:25:11.789 549c Compacted 3@0 + 1@1 files => 3743154 bytes
+2025/08/14-17:25:11.795 549c compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/08/14-18:00:15.258 549c Level-0 table #238: started
+2025/08/14-18:00:15.287 549c Level-0 table #238: 256970 bytes OK
+2025/08/14-18:00:15.298 549c Delete type=2 #227
+2025/08/14-18:00:15.298 549c Delete type=2 #229
+2025/08/14-18:00:15.298 549c Delete type=2 #231
+2025/08/14-18:00:15.299 549c Delete type=2 #233
+2025/08/14-18:00:15.299 549c Delete type=0 #234
+2025/08/14-18:00:15.299 549c Manual compaction at level-0 from '!folders!0U3gYIiO7ui2yZ8z' @ 72057594037927935 : 1 .. '!scenes.walls!zWTuzelRAglLbqEN.zwplV1WyJHohinYa' @ 0 : 0; will stop at '!scenes.walls!wPuuCxGR862Eh8s9.xtMmWsZYSN4cMwat' @ 126694 : 0
+2025/08/14-18:00:15.299 549c Compacting 1@0 + 2@1 files
+2025/08/14-18:00:15.586 549c Generated table #239@0: 14790 keys, 2150015 bytes
+2025/08/14-18:00:15.928 549c Generated table #240@0: 23609 keys, 1589393 bytes
+2025/08/14-18:00:15.928 549c Compacted 1@0 + 2@1 files => 3739408 bytes
+2025/08/14-18:00:15.939 549c compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/08/14-18:00:15.939 549c Delete type=2 #235
+2025/08/14-18:00:15.939 549c Delete type=2 #236
+2025/08/14-18:00:15.940 549c Delete type=2 #238
+2025/08/14-18:00:15.967 549c Manual compaction at level-0 from '!scenes.walls!wPuuCxGR862Eh8s9.xtMmWsZYSN4cMwat' @ 126694 : 0 .. '!scenes.walls!zWTuzelRAglLbqEN.zwplV1WyJHohinYa' @ 0 : 0; will stop at (end)
